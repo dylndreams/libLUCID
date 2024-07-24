@@ -1,2 +1,3 @@
 # libLUCID
-a fork of libdream that aims to be easy yet powerful to use
+currently it isn't ready for release. <br >
+version 0.1 will only have builde wrappers. <br > 
